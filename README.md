@@ -1,4 +1,4 @@
-¡Hola! Soy Pol Crespo, un entusiasta Full Stack Developer con una pasión por la creación de aplicaciones multiplataforma y web. 
+**¡Hola! Soy Pol Crespo**, un entusiasta **Full Stack Developer** con una pasión por la creación de aplicaciones multiplataforma y web. 
 Con una actitud positiva y una habilidad natural para la comunicación, me encanta liderar proyectos y colaborar en equipos dinámicos.
 
 ## Por qué trabajar conmigo:
